@@ -1,0 +1,5 @@
+{
+  "name": "Sueñavit Sleep Monitor",
+  "description": "A high-fidelity sleep tracking dashboard featuring biometric data visualization, sleep stages analysis, daily logging, and a smart alarm interface.",
+  "requestFramePermissions": []
+}
